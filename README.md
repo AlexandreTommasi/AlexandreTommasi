@@ -34,22 +34,21 @@ Sou estudante de Engenharia de Software no INATEL (Instituto Nacional de Telecom
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreTommasi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreTommasi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 📫 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandretommasialves/)
 
 ---
 
 ## 🌱 Projetos Atuais
 
 - 💻 **AI e Visão Computacional**: Desenvolvendo projetos de aprendizado de máquina e visão computacional usando **TensorFlow** e **OpenCV**.
-- 🏥 **Projeto Hospitalar**: Trabalhando em um projeto sobre "Prevenção de Quedas" com **Arduino** e sensores.
 
 ---
 
@@ -61,8 +60,8 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 
 ## 🌐 Outros Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu_instagram/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandretoalves@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alexandretommasi_/)
 
 ---
 
