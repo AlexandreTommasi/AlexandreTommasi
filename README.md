@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Alexandre
 
-![Profile views](https://komarev.com/ghpvc/?username=seu-usuario-github&color=green)
+![Profile views](https://komarev.com/ghpvc/?AlexandreTommasi&color=green)
 
-Sou estudante de Engenharia de Software no INATEL (Instituto Nacional de Telecomunicações) e atualmente sou bolsista no Laboratório de CS&I, onde trabalho em projetos de Inteligência Artificial (IA) e Visão Computacional. Tenho experiência em diversas linguagens de programação e estou sempre em busca de novos desafios e oportunidades para aprender e me desenvolver.
+Sou estudante de Engenharia de Software no INATEL (Instituto Nacional de Telecomunicações), fui bolsista no Laboratório de CS&I, onde trabalhei em projetos de Inteligência Artificial (IA) e Visão Computacional. Hoje, sou estagiário de IA na empresa Code N' App. Tenho experiência em diversas linguagens de programação e estou sempre em busca de novos desafios e oportunidades para aprender e me desenvolver.
 
 ---
 
@@ -10,6 +10,7 @@ Sou estudante de Engenharia de Software no INATEL (Instituto Nacional de Telecom
 
 - 🎓 Estudante de Engenharia de Software no INATEL
 - 🎓 Pesquisador bolsista no Laboratório de CS&I
+- 👨‍💻 Estagiário de IA na Code n' App
 - 👨‍💻 Trabalhando em projetos de IA e Visão Computacional
 - 🔧 Proficiência em **Python**, **C**, **C++**, **Java**, **JavaScript** e continuo aprendendo
 - 🌱 Tenho 20 anos e estou em uma jornada para me tornar um desenvolvedor completo
