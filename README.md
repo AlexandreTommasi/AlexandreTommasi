@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=453&height=40&lines=Oi%2C+eu+sou+o+Alexandre!+👋" alt="Typing SVG">
+  </a>
 </div>
 
-
-![Profile views](https://komarev.com/ghpvc/?username=AlexandreTommasi&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=AlexandreTommasi&color=black)
 
 Iniciei minha vida acadêmica em 2022 no **Instituto Nacional de Telecomunicações (INATEL)**, onde estou me graduando em **Engenharia de Software**. Durante minha formação, concluí cursos essenciais como **Algoritmos 1 ao 3** (C++), **Programação Orientada a Objetos** (Java), **Banco de Dados 1** (focado em SQL) e **Banco de Dados 2**, onde aprofundei meus conhecimentos em conexões de **Python com NoSQL**, especialmente **Neo4J** e **MongoDB**.
 
@@ -32,12 +33,9 @@ Atualmente, sou **estagiário de IA** na **Code n' App**, onde estou contribuind
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3F6F?style=flat-square&logo=opencv&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -80,4 +78,10 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
   <img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
 </div>
 
+---
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake.svg">
+</picture>
