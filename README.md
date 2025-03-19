@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alexandre
 
-![Profile views](https://komarev.com/ghpvc/?AlexandreTommasi&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=AlexandreTommasi&color=green)
 
 Sou estudante de Engenharia de Software no INATEL (Instituto Nacional de Telecomunicações), fui bolsista no Laboratório de CS&I, onde trabalhei em projetos de Inteligência Artificial (IA) e Visão Computacional. Hoje, sou estagiário de IA na empresa Code N' App. Tenho experiência em diversas linguagens de programação e estou sempre em busca de novos desafios e oportunidades para aprender e me desenvolver.
 
