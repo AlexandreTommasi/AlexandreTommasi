@@ -15,3 +15,6 @@ Feel free to explore my repositories!
 Olá! 👋 Sou Alexandre, um estudante de Engenharia de Software apaixonado e curioso do INATEL (Instituto Nacional de Telecomunicações). Atualmente, sou bolsista no Laboratório de CS&I, trabalhando em projetos empolgantes envolvendo Inteligência Artificial (IA) e Visão Computacional. Minhas principais ferramentas incluem Python, C, C++, Java e JavaScript, onde mergulho nos reinos de aprendizado de máquina e ciência de dados.
 
 Sobre Mim 🎓 Estudante de Engenharia de Software no INATEL 🎓 Pesquisador bolsista no Laboratório de CS&I 👨‍💻 Trabalhando atualmente em projetos de IA e Visão Computacional 🔧 Proficiência em Python, C, C++, Java, JavaScript e aprendendo mais a cada dia 🌱 Tenho 20 anos e estou em uma jornada para me tornar um desenvolvedor completo 🚀 Sempre em busca de novos desafios para aprimorar minhas habilidades e aprender tecnologias de ponta Explore meus repositórios!
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
