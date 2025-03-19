@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=AlexandreTommasi&color=black)
+![Profile views](https://komarev.com/ghpvc/?username=AlexandreTommasi&color=green)
 
 Iniciei minha vida acadêmica em 2022 no **Instituto Nacional de Telecomunicações (INATEL)**, onde estou me graduando em **Engenharia de Software**. Durante minha formação, concluí cursos essenciais como **Algoritmos 1 ao 3** (C++), **Programação Orientada a Objetos** (Java), **Banco de Dados 1** (focado em SQL) e **Banco de Dados 2**, onde aprofundei meus conhecimentos em conexões de **Python com NoSQL**, especialmente **Neo4J** e **MongoDB**.
 
@@ -54,7 +54,7 @@ Atualmente, sou **estagiário de IA** na **Code n' App**, onde estou contribuind
 
 ---
 
-## 🌱 Projetos Atuais
+## 🌱 Projetos
 
 - 💻 **AI e Visão Computacional**: Desenvolvendo projetos de aprendizado de máquina e visão computacional utilizando **TensorFlow**, **OpenCV**, **YoloV8** e **Roboflow**.
 - 🏫 **Reconhecimento Facial de Alunos**: Sistema de reconhecimento facial de alunos em sala de aula usando **Python**, **MongoDB** e **MQTT** para coleta e gerenciamento de dados.
@@ -63,7 +63,7 @@ Atualmente, sou **estagiário de IA** na **Code n' App**, onde estou contribuind
 
 ## 📜 Minha História
 
-Sou apaixonado por tecnologia e estou constantemente explorando novas ferramentas e frameworks para melhorar minhas habilidades. Atualmente, estou me aprofundando em **Inteligência Artificial**, **Visão Computacional**, **Machine Learning** e **Deep Learning**. Além disso, busco expandir meu conhecimento em **NoSQL** e **Banco de Dados**.
+Sou apaixonado por tecnologia e estou constantemente explorando novas ferramentas e frameworks para melhorar minhas habilidades. Atualmente, estou me aprofundando em **Inteligência Artificial**, **Visão Computacional**, **Machine Learning** e **Deep Learning**. Além disso, busco expandir meu conhecimento em **Banco de Dados**.
 
 ---
 
@@ -71,17 +71,3 @@ Sou apaixonado por tecnologia e estou constantemente explorando novas ferramenta
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandretoalves@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alexandretommasi_/)
-
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/rWkw0t7U1y4AAAAd/mouth-slurp.gif" alt="drawing" width="300"/>
-</div>
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mathfss/Mathfss/output/github-contribution-grid-snake.svg">
-</picture>
